@@ -1,0 +1,232 @@
+/* Biography */
+
+.scientist {
+  overflow: auto;
+  background-color: rgb(144, 241, 241);
+  color: black;
+  font-family: Arial;
+  border-style: outset;
+  border: 10px black;
+  padding: 10px;
+  text-align: center;
+} 
+
+.bio {
+  background-color: blanchedalmond;
+  font-family: Arial;
+  border-style: inset;
+  border-color: gray;
+  border-width: 7px;
+}
+
+.richard {
+  display: block;
+  border-style: outset;
+  border-width: 7px;
+  border-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.efficiency {
+  text-align: center;
+}
+
+.enlightenment {
+  text-align: center;
+}
+
+.insight {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.segment {
+  border: 7px solid black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.timeline {
+  background-color: blanchedalmond;
+  font-family: calibri;
+  font-size: 400%;
+  border-style: inset;
+  border-color: gray;
+  border-width: 10px;
+}
+
+.cell {
+  background-color: blanchedalmond;
+  font-family: calibri;
+  font-size: 275%;
+  border-style: inset;
+  border-color: gray;
+  border-width: 10px;
+}
+
+.content {
+  background-color: rgb(144, 241, 241);
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  margin: 50px; 
+  padding: 2px; 
+  text-align: center;
+}  
+
+.photos {
+  float: right;
+  clear: right;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
+  height: 250px;
+  width: 330px;
+}
+
+.fact {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  height: 250px;
+  width: 330px;
+} 
+
+.bibliography {
+  background-color: blanchedalmond;
+  font-family: Arial;
+  text-align: center;
+  border-style: inset;
+  border-color: gray;
+  border-width: 7px;
+  margin-left: 615px;
+  margin-right: 615px;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: crimson;
+  color: white;
+  text-align: center;
+}
+
+/* Gallery */
+
+.title {
+  background-color: blanchedalmond;
+  font-family: Arial;
+  text-align: center;
+  border-style: inset;
+  border-color: gray;
+  border-width: 7px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.left {
+  background-color: blanchedalmond;
+  font-family: calibri;
+  float: left;
+  margin-left: 100px;
+  margin-right: 10px;
+  border-style: inset;
+  border-color: gray;
+  border-width: 10px;
+}
+
+.right {
+  background-color: blanchedalmond;
+  font-family: calibri;
+  float: right;
+  margin-left: 10px;
+  margin-right: 100px;
+  border-style: outset;
+  border-color: gray;
+  border-width: 10px;
+}
+
+.hamming-left {
+  background-color: blanchedalmond;
+  font-family: Calibri;
+  font-size: 125%;
+  text-align: center;
+  border-style: inset;
+  border-color: gray;
+  border-width: 4px;
+  overflow: auto;
+  margin-left: 300px;
+  margin-right: 600px;
+  margin-bottom: 700px;
+}
+
+.fermi-right {
+  background-color: blanchedalmond;
+  font-family: Calibri;
+  font-size: 105%;
+  text-align: center;
+  border-style: outset;
+  border-color: gray;
+  border-width: 4px;
+  overflow: auto;
+  margin-left: 500px;
+  margin-right: 100px;
+  margin-bottom: 700px;
+}
+
+.code-left {
+  background-color: blanchedalmond;
+  font-family: Calibri;
+  font-size: 105%;
+  text-align: center;
+  border-style: inset;
+  border-color: gray;
+  border-width: 4px;
+  overflow: auto;
+  margin-left: 400px;
+  margin-right: 400px;
+} 
+
+.framework {
+  overflow: auto;
+  background-color: rgb(144, 241, 241);
+  color: black;
+  font-family: Arial;
+  border-style: outset;
+  border: 10px black;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+/* References */ 
+
+.background {
+  overflow: auto;
+  background-color: rgb(144, 241, 241);
+  color: black;
+  font-family: Arial;
+  border-style: outset;
+  border: 10px black;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.reference {
+  background-color: blanchedalmond;
+  font-family: Arial;
+  border-style: inset;
+  border-color: gray;
+  border-width: 7px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
